@@ -9,15 +9,21 @@
     "records": [
         {
             "user": "Coda",
-            "link": "https://youtu.be/RUuCQRI18j4",
+            "link": "https://www.youtube.com/watch?v=RUuCQRI18j4",
             "percent": 100,
             "hz": 240
         },
-              {
-            "user": "Coda",
-            "link": "https://youtu.be/RUuCQRI18j4",
+        {
+            "user": "Phoneosilly",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 240
+            "hz": 120
+        },
+        {
+            "user": "matvii",
+            "link": "https://www.youtube.com/watch?v=hF6XzcZTXEo",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
