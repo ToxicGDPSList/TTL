@@ -1,24 +1,23 @@
 {
     "id": 112,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Time Adventure",
+    "author": "GEdynamix",
+    "verifier": "GWdynamix",
+    "verification": "https://www.youtube.com/watch?v=F50dd6EpcBA&embeds_referring_euri=https%3A%2F%2Ftoxicgdpsdemonlist.pages.dev%2F&source_ve_path=MjM4NTE",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Phoneosilly",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU&ab_channel=MagmaGMD",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "matvii",
+            "link": "https://www.youtube.com/watch?v=hF6XzcZTXEo",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
